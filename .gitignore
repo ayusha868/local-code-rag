@@ -1,0 +1,13 @@
+# Local Vector Database Storage (ChromaDB)
+.vector_db/
+
+# Python Caching & Compilation
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
